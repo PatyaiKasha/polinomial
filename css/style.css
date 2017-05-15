@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+/*=======polynomial=======*/
+
+body>p span {
+    font-style: italic;
+}
+
+body>p {
+    margin-left: 20px;
+}
+
+.polynomial {
+    margin-left: 20px;
+    font-style: italic;
+}
+
+sub,
+sup {
+    font-style: normal;
+}
+
+.polynomial sub {
+    color: blue;
+}
+
+.polynomial sup {
+    color: red;
+}
